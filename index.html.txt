@@ -1,0 +1,11 @@
+<html>
+
+		<head>
+		<title>
+			 AKS Azure website
+		<\title>
+		<\head>
+		<body>
+			Hello from AzureAKS ( version 2.0) </h1>
+		<\body>
+<\html>
